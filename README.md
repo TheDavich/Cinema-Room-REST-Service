@@ -12,6 +12,8 @@ The movie theater has 9 rows with 9 seats each and there is a endpoint that will
 
 The response contains information about the rows, columns, available seats, and price. The response is a JSON object and has the following format:
 
+
+........
 {
    "total_rows":5,
    "total_columns":6,
